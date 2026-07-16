@@ -1,0 +1,39 @@
+ibdp-chemistry-interactive-organic-handbook/
+│
+├── index.html
+├── README.md
+├── LICENSE
+│
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── dark.css
+│   │   ├── print.css
+│   │   └── components.css
+│   │
+│   ├── js/
+│   │   ├── app.js
+│   │   ├── navigation.js
+│   │   ├── search.js
+│   │   ├── quiz.js
+│   │   ├── theme.js
+│   │   └── teacherMode.js
+│   │
+│   ├── svg/
+│   │
+│   ├── images/
+│   │
+│   └── icons/
+│
+├── chapters/
+│   ├── chapter1/
+│   ├── chapter2/
+│   ├── chapter3/
+│   ├── chapter4/
+│   └── chapter5/
+│
+├── glossary/
+│
+├── quizzes/
+│
+└── references/
